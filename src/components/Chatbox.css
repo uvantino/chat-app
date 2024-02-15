@@ -1,0 +1,13 @@
+/* Chatbox.css */
+.chatbox {
+    width: 400px;
+    margin: 20px auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  /* Add additional styling as needed */
+  

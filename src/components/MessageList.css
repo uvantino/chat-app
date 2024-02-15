@@ -1,0 +1,8 @@
+/* MessageList.css */
+.message-list {
+  max-height: 300px;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column-reverse;
+  padding: 10px;
+}
